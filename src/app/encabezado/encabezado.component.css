@@ -1,0 +1,11 @@
+h1{
+    color:aquamarine;
+    background-color: black;
+}
+
+
+
+h1:hover{
+    color: rgb(160, 155, 155);
+    background-color: rgb(211, 211, 206);
+}

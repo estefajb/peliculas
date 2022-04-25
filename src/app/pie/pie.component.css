@@ -1,0 +1,10 @@
+footer{
+    color: aquamarine;
+    background-color: black;
+}
+
+
+footer:hover{
+    color: rgb(160, 155, 155);
+    background-color: rgb(211, 211, 206);
+}

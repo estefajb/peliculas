@@ -1,0 +1,28 @@
+.general{
+    width: 500px;
+    padding: 20px;
+   display: flex;
+}
+
+
+.caja1{
+   display: flex;
+}
+
+
+article{
+    
+    padding: 18px;
+    color: aquamarine;
+    background-color: black;
+   width: 35%;
+  
+}
+
+
+article:hover{
+    color: rgb(160, 155, 155);
+    background-color: rgb(211, 211, 206);
+}
+
+
